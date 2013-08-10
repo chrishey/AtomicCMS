@@ -14,6 +14,10 @@ namespace Atomic.Tests.Model.Schemas
     {
         public SchemaTests()
         {
+            public void CreateSchema
+            {
+
+            }
         }
     }
 }

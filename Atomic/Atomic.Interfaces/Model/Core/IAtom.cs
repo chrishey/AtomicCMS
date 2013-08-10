@@ -6,9 +6,9 @@ using System.Text;
 namespace Atomic.Interfaces.Model.Core
 {
     /// <summary>
-    /// Everything in Atomic is treated as an object.
+    /// Everything in Atomic is treated as an atom of a wider system.
     /// </summary>
-    public interface IObject
+    public interface IAtom
     {
         int Id { get; }
         DateTime Created { get; }

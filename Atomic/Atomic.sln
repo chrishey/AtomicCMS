@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F47C6F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomic.Interfaces", "Atomic.Interfaces\Atomic.Interfaces.csproj", "{6AC476C0-3C06-48C8-BA1D-EF17727CEB3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomic.Model", "Atomic.Model\Atomic.Model.csproj", "{5CB8BDED-749E-4D86-B3DE-ACBE54559658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{6AC476C0-3C06-48C8-BA1D-EF17727CEB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AC476C0-3C06-48C8-BA1D-EF17727CEB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AC476C0-3C06-48C8-BA1D-EF17727CEB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB8BDED-749E-4D86-B3DE-ACBE54559658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB8BDED-749E-4D86-B3DE-ACBE54559658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB8BDED-749E-4D86-B3DE-ACBE54559658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB8BDED-749E-4D86-B3DE-ACBE54559658}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

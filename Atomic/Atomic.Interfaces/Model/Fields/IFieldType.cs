@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Atomic.Interfaces.Model.Fields
 {
-    public interface IFieldType : IObject
+    public interface IFieldType : IAtom
     {
     }
 }
