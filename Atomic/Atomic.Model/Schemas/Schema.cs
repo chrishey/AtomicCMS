@@ -15,10 +15,7 @@ namespace Atomic.Model.Schemas
     {
         public string Name { get; set; }
 
-        public abstract bool Validate()
-        {
-            throw new NotImplementedException();
-        }
+        public abstract bool Validate();
 
         public int AddField<T>(string fieldName, IField<T> field) where T : IFieldType
         {
