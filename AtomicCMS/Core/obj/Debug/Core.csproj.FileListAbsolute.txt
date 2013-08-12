@@ -1,0 +1,4 @@
+D:\Github\AtomicCMS\AtomicCMS\Core\bin\Debug\Core.dll
+D:\Github\AtomicCMS\AtomicCMS\Core\bin\Debug\Core.pdb
+D:\Github\AtomicCMS\AtomicCMS\Core\obj\Debug\Core.dll
+D:\Github\AtomicCMS\AtomicCMS\Core\obj\Debug\Core.pdb
