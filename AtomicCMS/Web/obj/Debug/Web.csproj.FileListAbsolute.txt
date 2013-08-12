@@ -1,0 +1,12 @@
+D:\Github\AtomicCMS\AtomicCMS\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\Web.dll
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\Web.pdb
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\Core.dll
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\Nancy.dll
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\Nancy.ViewEngines.Razor.dll
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\System.Web.Razor.Unofficial.dll
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\Core.pdb
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\System.Web.Razor.Unofficial.pdb
+D:\Github\AtomicCMS\AtomicCMS\Web\obj\Debug\Web.dll
+D:\Github\AtomicCMS\AtomicCMS\Web\obj\Debug\Web.pdb
+D:\Github\AtomicCMS\AtomicCMS\Web\bin\Nancy.Hosting.Aspnet.dll
